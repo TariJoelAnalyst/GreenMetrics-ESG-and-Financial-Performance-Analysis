@@ -7,6 +7,19 @@ This report analyzes ESG (Environmental, Social, and Governance) and financial p
 Greenmetrics Group, is a fictional organization that specializes in tracking ESG (Environmental, Social, and Governance) metrics across various industries and regions. The company collects extensive data on revenue, profit margin, ESG scores, carbon emissions, energy consumption, and other sustainability indicators. This report analyzes that data using Microsoft Excel to uncover performance trends, analyze the relationship between ESG factors and financial outcomes, and provide insights that support strategic, sustainable decision-making.
 
 
+
+
+## What is ESG
+
+**Environmental (E)**: This looks at how a company affects the natural environment. It considers factors like carbon emissions, how efficiently energy is used, how waste is managed, and the overall use of natural resources.
+
+**Social (S)**: This aspect examines how a company handles its relationships with people. It includes how the company treats employees, interacts with customers, supports diversity, and contributes to social responsibility in the communities where it operates.
+
+**Governance (G)**: This area evaluates the company’s leadership and management practices. It focuses on the structure and accountability of the board, ethical behavior, transparency in operations, and adherence to laws and regulations.
+
+
+
+
 #3 Problem Statement
 Greenmetrics is facing a challenge in quantifying the relationship between ESG (Environmental, Social, and Governance) performance and financial success. Without clear insights, it becomes difficult to guide investment decisions, assess risk, or prioritize sustainability initiatives. This project aims to:
 * Identify which ESG pillars (Environmental, Social, or Governance) most strongly correlate with financial growth or decline.
@@ -37,6 +50,7 @@ The dataset used in this report was provided by The Data Immersed (TDI). It cont
 * Carbon Emissions: Amount of carbon emissions produced
 * Water Usage: Amount of water consumed
 * Energy Consumption: Total energy consumed by the company
+
 
 
 ## Data Transformation
@@ -74,6 +88,7 @@ To better evaluate the performance of companies in the dataset, the following KP
 
 * Average Profit Margin:
   This metric tells us how efficiently companies are converting revenue into actual profit. An average profit margin of 11% means that, for every dollar earned, about 11 cents are kept as profit. This reflects healthy but not exceptional financial efficiency.
+
 
 
 
