@@ -20,7 +20,7 @@ Greenmetrics Group, is a fictional organization that specializes in tracking ESG
 
 
 
-# Problem Statement
+## Problem Statement
 Greenmetrics is facing a challenge in quantifying the relationship between ESG (Environmental, Social, and Governance) performance and financial success. Without clear insights, it becomes difficult to guide investment decisions, assess risk, or prioritize sustainability initiatives. This project aims to:
 * Identify which ESG pillars (Environmental, Social, or Governance) most strongly correlate with financial growth or decline.
 * Analyze how average ESG scores vary across companies experiencing positive, negative, or no growth.
